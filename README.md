@@ -10,6 +10,33 @@ ThinkTank is an Android app that allows users to collaborate on solving problems
 - Solution voting: Allows users to vote on which solution they think is the best.
 - Iteration: Enables users to iterate on the winning solution further.
 
+## UI Flow
+
+Here is the UI flow for the ThinkTank app:
+
+### Onboarding Flow
+- Welcome screen with app logo and a call-to-action to create an account or sign in
+- Sign up page with input fields for name, email, and password
+- Confirmation screen that welcomes the user and provides a brief overview of the app's features
+
+### Home Screen Flow
+- Home screen with a list of ongoing problems to solve, sorted by popularity or date posted
+- Problem details screen with a description of the problem and its current proposed solutions
+- Voting screen where users can cast their vote for the solution they believe is best
+- Results screen showing the winning solution and its vote count, with an option to iterate and improve upon it
+
+### Collaborative Flow
+- Collaborative workspace screen with a list of team members and their roles
+- Messaging feature for team members to communicate and exchange ideas
+- Solution iteration screen where team members can propose modifications to the winning solution and vote on them
+- Final solution screen that showcases the latest iteration with a brief explanation of how it addresses the problem
+
+### Profile Flow
+- Profile screen with user's basic information, including name, profile picture, and bio
+- Activity history screen that showcases the user's voting history and collaborative contributions
+- Settings screen where users can customize their account, including notification preferences and privacy settings
+
+
 ## Technologies and Tools Used
 
 - Android SDK
